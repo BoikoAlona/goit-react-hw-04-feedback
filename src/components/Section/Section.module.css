@@ -1,0 +1,12 @@
+.section {
+    max-width: 400px;
+    margin: margin 0 auto;
+    padding: 25px;
+    box-shadow: blanchedalmond;
+    border: 2px solid black;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 20px;
+}
